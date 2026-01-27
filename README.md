@@ -47,14 +47,15 @@ The framework incorporates the following categories:
 - Emphasis on observable economic effects rather than narrative causality
 - No variable is treated as deterministically causal in isolation.
 
-Repository Structure
-/data        # Raw and cleaned historical datasets
-/src         # R scripts for analysis and visualization
-/notebooks   # Exploratory and explanatory notebooks
-/docs        # Methodology and supporting documentation
+  
+Repository Structure      
+/data        # Raw and cleaned historical datasets     
+/src         # R scripts for analysis and visualization     
+/notebooks   # Exploratory and explanatory notebooks      
+/docs        # Methodology and supporting documentation      
+
 
 ## Limitations
-
 - Correlation is not interpreted as causation
 - Structural breaks are explicitly acknowledged
 - Data availability constrains early historical resolution
