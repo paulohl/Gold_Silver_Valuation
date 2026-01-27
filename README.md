@@ -36,12 +36,15 @@ The framework incorporates the following categories:</br>
 __Financial Markets__
 - Equity indices (S&P 500, NASDAQ in later periods)
 - Risk-on / risk-off capital allocation dynamics
+
 __Monetary Variables__
 - Nominal and real interest rates
 - Inflation and inflation expectations
+
 __Commodities and Energy__
 - Broad commodity indices
 - Crude oil prices as a transmission variable
+
 __Geopolitical Context__
 - Major geopolitical cycles as exogenous shocks
 - Emphasis on observable economic effects rather than narrative causality
