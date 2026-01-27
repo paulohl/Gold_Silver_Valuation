@@ -76,8 +76,9 @@ This repository is under active development. Analytical results, documentation, 
 [Specify license]
 
 ### Frequently Repeated Claims vs. Data
+
 | Common Claim      	    | Typical Assertion                                     	| Empirical Observation                              | Analytical Outcome                   |
-+:--------------------------+:----------------------------------------------------------+:---------------------------------------------------+:-------------------------------------------------+
++:--------------------------+:----------------------------------------------------------+:---------------------------------------------------+:--------------------------------------------------------|
 | Gold–Silver Ratio         |	Ratio implies inevitable mean reversion                 |	Ratio varies across regimes and monetary systems | No stable equilibrium ratio observed          |
 | Silver Price Suppression	| Prices are artificially capped by coordinated actors  	| Long-term prices correlate with macro drivers      | No independent evidence of persistent suppression  |
 | Imminent Price Explosion  |	Silver will rapidly reprice by an order of magnitude	| Historical spikes are transient and regime-bound	 | Claim not supported by time-series behavior             |
@@ -85,3 +86,29 @@ This repository is under active development. Analytical results, documentation, 
 | Roman Era Ratios        	| Ancient ratios define “true” value                    	| Ancient economies are non-comparable               |	Historical analogy invalid                             |
 | Fiat Collapse         	| Paper currency collapse ensures metal repricing       	| Precious metals fluctuate under fiat systems     	 | No monotonic relationship                        |
 | Interest Rate             | Irrelevance                                           	| Rates do not affect precious metals                |	Strong inverse relationship observed       |	Claim contradicted by data |
+
+
+
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+
+
+
+
