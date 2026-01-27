@@ -32,7 +32,9 @@ The aim is not to refute beliefs, but to evaluate whether such claims are suppor
 
 Silver and gold are analyzed as components of a broader economic system rather than as isolated monetary artifacts.
 
-The framework incorporates the following categories:</br>
+The framework incorporates the following categories:
+</br>
+
 __Financial Markets__
 - Equity indices (S&P 500, NASDAQ in later periods)
 - Risk-on / risk-off capital allocation dynamics
@@ -51,13 +53,13 @@ __Geopolitical Context__
 
 No variable is treated as deterministically causal in isolation.
 
-  
-Repository Structure      
+### Repository Structure
+```
 /data        # Raw and cleaned historical datasets     
 /src         # R scripts for analysis and visualization     
 /notebooks   # Exploratory and explanatory notebooks      
 /docs        # Methodology and supporting documentation      
-
+```
 
 ## Limitations
 - Correlation is not interpreted as causation
@@ -73,12 +75,13 @@ This repository is under active development. Analytical results, documentation, 
 
 [Specify license]
 
-Frequently Repeated Claims vs. Data
-Common Claim	Typical Assertion	Empirical Observation	Analytical Outcome
-Gold–Silver Ratio	Ratio implies inevitable mean reversion	Ratio varies across regimes and monetary systems	No stable equilibrium ratio observed
-Silver Price Suppression	Prices are artificially capped by coordinated actors	Long-term prices correlate with macro drivers	No independent evidence of persistent suppression
-Imminent Price Explosion	Silver will rapidly reprice by an order of magnitude	Historical spikes are transient and regime-bound	Claim not supported by time-series behavior
-Physical Scarcity	Limited supply guarantees repricing	Above-ground stock and recycling mitigate scarcity	Scarcity alone insufficient
-Roman Era Ratios	Ancient ratios define “true” value	Ancient economies are non-comparable	Historical analogy invalid
-Fiat Collapse	Paper currency collapse ensures metal repricing	Precious metals fluctuate under fiat systems	No monotonic relationship
-Interest Rate Irrelevance	Rates do not affect precious metals	Strong inverse relationship observed	Claim contradicted by data
+### Frequently Repeated Claims vs. Data
+| Common Claim	    | Typical Assertion                     	 | Empirical Observation                            	| Analytical Outcome                   |
++:------------------+:----------------- -------------------------+:-----------------------------------------------------+:-------------------------------------+
+| Gold–Silver Ratio |	Ratio implies inevitable mean reversion  |	Ratio varies across regimes and monetary systems	| No stable equilibrium ratio observed |
+| Silver Price Suppression	Prices are artificially capped by coordinated actors	Long-term prices correlate with macro drivers	No independent evidence of persistent suppression |
+| Imminent Price Explosion	Silver will rapidly reprice by an order of magnitude	Historical spikes are transient and regime-bound	Claim not supported by time-series behavior |
+| Physical Scarcity	Limited supply guarantees repricing	Above-ground stock and recycling mitigate scarcity	Scarcity alone insufficient |
+| Roman Era Ratios	Ancient ratios define “true” value	Ancient economies are non-comparable	Historical analogy invalid |
+| Fiat Collapse	Paper currency collapse ensures metal repricing	Precious metals fluctuate under fiat systems	No monotonic relationship |
+| Interest Rate Irrelevance	Rates do not affect precious metals	Strong inverse relationship observed	Claim contradicted by data |
