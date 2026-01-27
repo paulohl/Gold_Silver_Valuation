@@ -3,11 +3,11 @@ Data-driven financial/economic analysts of the profitability Gold and Silver as 
 # Historical Precious Metals Analytics
 _Abstract_
 
-_This repository documents a quantitative and historical analysis of gold and silver price dynamics using macroeconomic, financial, and geopolitical indicators. The project originated as a methodological exercise in statistical analysis using R and evolved into a broader examination of commonly asserted claims regarding silver valuation. The study emphasizes reproducibility, long-horizon analysis, and system-level economic drivers rather than narrative or speculative reasoning._
-
-## Scope and Objectives
+_This repository documents a quantitative and historical analysis of gold and silver price dynamics using macroeconomic, financial, and geopolitical indicators. The project originated as a methodological exercise in statistical analysis using R and evolved into a broader examination of commonly asserted claims regarding silver valuation. The study emphasizes reproducibility, long-horizon analysis, and system-level economic drivers rather than narrative or speculative reasoning._      
 
 ______________       
+## Scope and Objectives
+
 The primary objectives of this project are:     
 
     - To analyze historical gold and silver prices within a macroeconomic framework
