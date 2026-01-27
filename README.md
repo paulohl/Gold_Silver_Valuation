@@ -32,20 +32,21 @@ The aim is not to refute beliefs, but to evaluate whether such claims are suppor
 
 Silver and gold are analyzed as components of a broader economic system rather than as isolated monetary artifacts.
 
-The framework incorporates the following categories:    
-- Financial Markets
+The framework incorporates the following categories:</br>
+__Financial Markets__
 - Equity indices (S&P 500, NASDAQ in later periods)
 - Risk-on / risk-off capital allocation dynamics
-- Monetary Variables
+__Monetary Variables__
 - Nominal and real interest rates
 - Inflation and inflation expectations
-- Commodities and Energy
+__Commodities and Energy__
 - Broad commodity indices
 - Crude oil prices as a transmission variable
-- Geopolitical Context
+__Geopolitical Context__
 - Major geopolitical cycles as exogenous shocks
 - Emphasis on observable economic effects rather than narrative causality
-- No variable is treated as deterministically causal in isolation.
+
+No variable is treated as deterministically causal in isolation.
 
   
 Repository Structure      
