@@ -7,6 +7,7 @@ _This repository documents a quantitative and historical analysis of gold and si
 
 ## Scope and Objectives
 
+______________       
 The primary objectives of this project are:     
 
     - To analyze historical gold and silver prices within a macroeconomic framework
@@ -14,8 +15,9 @@ The primary objectives of this project are:
     - To evaluate commonly repeated claims about silver valuation against historical data
     - To document methodologies suitable for replication and extension
 
-The scope is descriptive and analytical, not predictive. The project does not attempt to forecast prices or propose trading strategies.
+The scope is descriptive and analytical, not predictive. The project does not attempt to forecast prices or propose trading strategies.      
 
+_______________
 ## Research Motivation
 
 Public discourse surrounding silver frequently exhibits a high degree of narrative uniformity and low empirical rigor. Assertions are often presented as self-evident truths, relying on selective historical references, simplified ratios, or unverifiable claims of market manipulation.
@@ -26,8 +28,9 @@ This repository was developed to examine silver using the same analytical standa
 - Cross-asset comparison
 - Explicit treatment of uncertainty and model limits
 
-The aim is not to refute beliefs, but to evaluate whether such claims are supported by observable historical behavior.
+The aim is not to refute beliefs, but to evaluate whether such claims are supported by observable historical behavior.      
 
+_______________
 ## Analytical Framework
 
 Silver and gold are analyzed as components of a broader economic system rather than as isolated monetary artifacts.
@@ -51,8 +54,9 @@ __Geopolitical Context__
 - Major geopolitical cycles as exogenous shocks
 - Emphasis on observable economic effects rather than narrative causality
 
-No variable is treated as deterministically causal in isolation.
+No variable is treated as deterministically causal in isolation.     
 
+_________________
 ### Repository Structure
 ```
 /data        # Raw and cleaned historical datasets     
@@ -61,20 +65,24 @@ No variable is treated as deterministically causal in isolation.
 /docs        # Methodology and supporting documentation      
 ```
 
+_________________
 ## Limitations
 - Correlation is not interpreted as causation
 - Structural breaks are explicitly acknowledged
 - Data availability constrains early historical resolution
 - Results are contingent on chosen indicators and sampling windows
 
+________________
 ## Status
 
-This repository is under active development. Analytical results, documentation, and visualizations will be expanded iteratively.
+This repository is under active development. Analytical results, documentation, and visualizations will be expanded iteratively.      
 
+________________
 ## License
 
-[Specify license]
+[Specify license]       
 
+________________
 ### Frequently Repeated Claims vs. Data
 
 | Common Claim      	    | Typical Assertion                                     	| Empirical Observation                              | Analytical Outcome                   |
@@ -85,28 +93,17 @@ This repository is under active development. Analytical results, documentation, 
 | Physical Scarcity     	| Limited supply guarantees repricing                   	| Above-ground stock and recycling mitigate scarcity |	Scarcity alone insufficient                        |
 | Roman Era Ratios        	| Ancient ratios define “true” value                    	| Ancient economies are non-comparable               |	Historical analogy invalid                             |
 | Fiat Collapse         	| Paper currency collapse ensures metal repricing       	| Precious metals fluctuate under fiat systems     	 | No monotonic relationship                        |
-| Interest Rate             | Irrelevance                                           	| Rates do not affect precious metals                |	Strong inverse relationship observed       |	Claim contradicted by data |
+| Interest Rate             | Irrelevance                                           	| Rates do not affect precious metals                |	Strong inverse relationship observed       |	Claim contradicted by data |       
+
+
+
+__________________
 
 
 
 
 
-Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 
